@@ -1,0 +1,4 @@
+change range at 3 places
+press the keys frequently for the player to move
+i have polymorphism for the wall and the stairs
+i have inheritance for the board and the person and the donkey
